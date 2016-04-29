@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Props.feature" Id="e3383fa7-8dc9-4a02-bc89-82e7d3e5ede1" ReceiverAssembly="SPFeaturesSEO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2e5ca619c3302d34" ReceiverClass="SPFeaturesSEO.Features.Props.Feature1EventReceiver" Scope="Web"></Feature>

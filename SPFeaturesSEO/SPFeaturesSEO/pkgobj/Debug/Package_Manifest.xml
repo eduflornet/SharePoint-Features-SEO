@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="712e65d6-3a30-4f64-82a2-bbd86b63b57b" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="SPFeaturesSEO.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SPFeaturesSEO_Props\Feature.xml" />
+    <FeatureManifest Location="SPFeaturesSEO_Settings\Feature.xml" />
+  </FeatureManifests>
+</Solution>
